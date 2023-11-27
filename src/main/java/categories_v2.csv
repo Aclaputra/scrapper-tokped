@@ -1,0 +1,201 @@
+id,name,level,parent,url
+1,Audio Kamera & Elektronik Lainnya,1,,
+2,Aksesoris Kamera,2,1.0,
+3,Kabel Konektor Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/kabel-konektor-kamera
+4,Lainnya,3,2.0,https://www.tokopedia.com/p/olahraga/gym-fitness/lainnya
+5,Microphone Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/microphone-kamera
+6,Monopod Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/monopod-kamera
+7,Remote Wireless Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/remote-wireless-kamera
+8,Silica Gel Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/silica-gel-kamera
+9,Stabilizer Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/stabilizer-kamera
+10,Tripod Kamera,3,2.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/aksesoris-kamera/tripod-kamera
+11,Audio,2,1.0,
+12,Amplifier,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/amplifier
+13,Earphone,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/earphone
+14,Headphone,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/headphone
+15,Kabel & Konektor Audio,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/kabel-konektor-audio
+16,Sound System,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/sound-system
+17,Speaker,3,11.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/audio/speaker
+18,TWSVoice Recorder,3,11.0,
+19,Baterai & Charger Kamera,2,1.0,
+20,Baterai Kamera,3,19.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/baterai-charger-kamera/baterai-kamera
+21,Battery & Charger Pack,3,19.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/baterai-charger-kamera/battery-charger-pack
+22,Battery Grip Kamera,3,19.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/baterai-charger-kamera/battery-grip-kamera
+23,Charger Kamera,3,19.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/baterai-charger-kamera/charger-kamera
+24,Cleaning Tools Kamera,2,1.0,
+25,Cleaning Cloth & Wipe,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/cleaning-cloth-wipe
+26,Cleaning Kit Kamera,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/cleaning-kit-kamera
+27,Cleaning Swab,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/cleaning-swab
+28,Dry Box Kamera,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/dry-box-kamera
+29,Lenspen,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/lenspen
+30,Rubber Dust Air Blower,3,24.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/cleaning-tools-kamera/rubber-dust-air-blower
+31,Drone & Aksesoris,2,1.0,
+32,Aksesoris Drone,3,31.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/drone-aksesoris/aksesoris-drone
+33,Drone Kamera,3,31.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/drone-aksesoris/drone-kamera
+34,Drone Remote Control,3,31.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/drone-aksesoris/drone-remote-control
+35,Tas Drone,3,31.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/drone-aksesoris/tas-drone
+36,Frame Album & Roll Film,2,1.0,
+37,Album Foto,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/album-foto
+38,DVs,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/dvs
+39,Frame Digital,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/frame-digital
+40,Frame Foto,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/frame-foto
+41,Printer Foto,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/printer-foto
+42,Printer Foto Portable,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/printer-foto-portable
+43,Refilll Kamera Instan,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/refilll-kamera-instan
+44,Roll Film,3,36.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/frame-album-roll-film/roll-film
+45,Kamera Analog,2,1.0,
+46,Disposable Camera,3,45.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-analog/disposable-camera
+47,Kamera Film,3,45.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-analog/kamera-film
+48,Kamera Instan,3,45.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-analog/kamera-instan
+49,Kamera Lomo,3,45.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-analog/kamera-lomo
+50,Kamera Digital,2,1.0,
+51,Action Camera,3,50.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-digital/action-camera
+52,Kamera 360Kamera DSLRKamera Mirrorless,3,50.0,
+53,Kamera Pocket,3,50.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-digital/kamera-pocket
+54,Kamera Pengintai,2,1.0,
+55,DVRFake Camera,3,54.0,
+56,IP Camera,3,54.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/kamera-pengintai/ip-camera
+57,Kabel CCTVKamera CCTVSpy Camera,3,54.0,
+58,Lensa & Aksesoris,2,1.0,
+59,Adapter Lensa,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/adapter-lensa
+60,Cap Lensa Kamera,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/cap-lensa-kamera
+61,Converter - Teleconverter,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/converter-teleconverter
+62,Filter Lensa Kamera,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/filter-lensa-kamera
+63,Hood Lensa Kamera,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/hood-lensa-kamera
+64,Lens Pouch,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/lens-pouch
+65,Lensa Kamera,3,58.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lensa-aksesoris/lensa-kamera
+66,Lighting & Studio,2,1.0,
+67,Backdrop,3,66.0,https://www.tokopedia.com/p/perlengkapan-pesta/dekorasi-pesta/backdrop
+68,Flash Diffuser,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/flash-diffuser
+69,Flash Kamera,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/flash-kamera
+70,Flash Trigger,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/flash-trigger
+71,Hot Shoe Kamera,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/hot-shoe-kamera
+72,Ring Light,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/ring-light
+73,Softbox,3,66.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/lighting-studio/softbox
+74,Media Player,2,1.0,
+75,Blu Ray Player,3,74.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/media-player/blu-ray-player
+76,DVD Player,3,74.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/media-player/dvd-player
+77,MP3 & MP4 Player,3,74.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/media-player/mp3-mp4-player
+78,Radio & Tape Player,3,74.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/media-player/radio-tape-player
+79,Perangkat Elektronik Lainnya,2,1.0,
+80,Lainnya,3,79.0,
+81,Tas & Case Kamera,2,1.0,
+82,Case Kamera,3,81.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/tas-case-kamera/case-kamera
+83,Strap Kamera,3,81.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/tas-case-kamera/strap-kamera
+84,Tas Ransel Kamera,3,81.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/tas-case-kamera/tas-ransel-kamera
+85,Tas Selempang Kamera,3,81.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/tas-case-kamera/tas-selempang-kamera
+86,Waterproof Case Kamera,3,81.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/tas-case-kamera/waterproof-case-kamera
+87,Video,2,1.0,
+88,Camcorder,3,87.0,https://www.tokopedia.com/p/audio-kamera-elektronik-lainnya/video/camcorder
+89,Buku,1,,
+90,Arsitektur & Desain,2,89.0,
+91,Buku Bangunan,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-bangunan
+92,Buku Codes & Standars,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-codes-standars
+93,Buku Dekorasi & Ornamen,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-dekorasi-ornamen
+94,Buku Desain Dapur,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-desain-dapur
+95,Buku Desain Kamar,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-desain-kamar
+96,Buku Desain Ruang Keluarga,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-desain-ruang-keluarga
+97,Buku Desain Ruang Tamu,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-desain-ruang-tamu
+98,Buku Desain Rumah,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-desain-rumah
+99,Buku Interior & Eksterior,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-interior-eksterior
+100,Buku Metode & Material Bangunan,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-metode-material-bangunan
+101,Buku Taman,3,90.0,https://www.tokopedia.com/p/buku/arsitektur-desain/buku-taman
+102,Buku Hukum,2,89.0,
+103,Buku Gender & Hukum,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-gender-hukum
+104,Buku Hukum Dagang,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-hukum-dagang
+105,Buku Hukum Internasional,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-hukum-internasional
+106,Buku Hukum Perdata,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-hukum-perdata
+107,Buku Hukum Pidana,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-hukum-pidana
+108,Buku Kemanusiaan,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-kemanusiaan
+109,Buku Politik & Hukum,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/buku-politik-hukum
+110,Kumpulan Peraturan Perundang-Undangan,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/kumpulan-peraturan-perundang-undangan
+111,UUD 1945,3,102.0,https://www.tokopedia.com/p/buku/buku-hukum/uud-1945
+112,Buku Import,2,89.0,
+113,Agriculture Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/agriculture-book-import
+114,Art & Novel Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/art-novel-import
+115,Child & Teenager Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/child-teenager-book-import
+116,Computer Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/computer-book-import
+117,Economy Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/economy-book-import
+118,Feminity Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/feminity-book-import
+119,Health Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/health-book-import
+120,Hobby & Interest Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/hobby-interest-book-import
+121,Language Book Import,3,112.0,
+122,Law Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/law-book-import
+123,Management & Business Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/management-business-book-import
+124,Medical Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/medical-book-import
+125,Political Social Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/political-social-book-import
+126,Psychology & Education Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/psychology-education-book-import
+127,Reference & Dictionary Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/reference-dictionary-book-import
+128,Religion & Philosophy Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/religion-philosophy-book-import
+129,School Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/school-book-import
+130,Secretarial Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/secretarial-book-import
+131,Self Development Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/self-development-book-import
+132,Technique Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/technique-book-import
+133,Tourism & Map Book Import,3,112.0,https://www.tokopedia.com/p/buku/buku-import/tourism-map-book-import
+134,Buku Masakan,2,89.0,
+135,Resep Kue,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-kue
+136,Resep Makanan Bayi & Balita,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-makanan-bayi-balita
+137,Resep Makanan Diet,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-makanan-diet
+138,Resep Masakan,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-masakan
+139,Resep Minuman & Dessert,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-minuman-dessert
+140,Resep Pastry,3,134.0,https://www.tokopedia.com/p/buku/buku-masakan/resep-pastry
+141,Buku Persiapan Ujian,2,89.0,
+142,Persiapan TPA & Psikotest,3,141.0,https://www.tokopedia.com/p/buku/buku-persiapan-ujian/persiapan-tpa-psikotest
+143,Persiapan Tes CPNSPersiapan Tes TOEFL & IELTS,3,141.0,
+144,Buku Remaja dan Anak,2,89.0,
+145,Buku Aktivitas,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-aktivitas
+146,Buku Cerita Anak,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-cerita-anak
+147,Buku Dongeng,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-dongeng
+148,Buku Dunia Pengetahuan,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-dunia-pengetahuan
+149,Buku Fabel,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-fabel
+150,Buku Islami Anak,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-islami-anak
+151,Buku Keterampilan Anak,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-keterampilan-anak
+152,Buku Mewarnai,3,144.0,https://www.tokopedia.com/p/buku/buku-remaja-dan-anak/buku-mewarnai
+153,Ekonomi & Bisnis,2,89.0,
+154,Buku Akuntansi,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-akuntansi
+155,Buku Bisnis,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-bisnis
+156,Buku Ekonomi,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-ekonomi
+157,Buku Kesekretariatan,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-kesekretariatan
+158,Buku Manajemen,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-manajemen
+159,Buku Pariwisata,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-pariwisata
+160,Buku Perbankan,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-perbankan
+161,Buku Perhotelan,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-perhotelan
+162,Buku Perpajakan,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-perpajakan
+163,Buku Statistik,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-statistik
+164,Buku Usaha Kecil & Kewirausahaan,3,153.0,https://www.tokopedia.com/p/buku/ekonomi-bisnis/buku-usaha-kecil-kewirausahaan
+165,Hobi,2,89.0,
+166,Buku Alam,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-alam
+167,Buku Fotografi,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-fotografi
+168,Buku Hewan Peliharaan,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-hewan-peliharaan
+169,Buku Hiburan,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-hiburan
+170,Buku Humor,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-humor
+171,Buku Keterampilan,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-keterampilan
+172,Buku Kuliner,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-kuliner
+173,Buku Musik & Lagu,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-musik-lagu
+174,Buku Olahraga,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-olahraga
+175,Buku Otomotif,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-otomotif
+176,Buku Permainan,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-permainan
+177,Buku Seni,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-seni
+178,Buku Tanaman,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-tanaman
+179,Buku Travel,3,165.0,https://www.tokopedia.com/p/buku/hobi/buku-travel
+180,Kamus & Bahasa Asing,2,89.0,
+181,Bahasa Arab,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-arab
+182,Bahasa Indonesia,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-indonesia
+183,Bahasa Inggris,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-inggris
+184,Bahasa Jawa,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-jawa
+185,Bahasa Jepang,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-jepang
+186,Bahasa Jerman,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-jerman
+187,Bahasa Korea,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-korea
+188,Bahasa Mandarin,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-mandarin
+189,Bahasa Perancis,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/bahasa-perancis
+190,Basa Sunda,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/basa-sunda
+191,Kamus Bahasa Lainnya,3,180.0,https://www.tokopedia.com/p/buku/kamus-bahasa-asing/kamus-bahasa-lainnya
+192,Kedokteran,2,89.0,
+193,Buku Farmasi,3,192.0,https://www.tokopedia.com/p/buku/kedokteran/buku-farmasi
+194,Buku Kedokteran Spesialis,3,192.0,https://www.tokopedia.com/p/buku/kedokteran/buku-kedokteran-spesialis
+195,Buku Kedokteran Umum,3,192.0,https://www.tokopedia.com/p/buku/kedokteran/buku-kedokteran-umum
+196,Buku Psikiatri,3,192.0,https://www.tokopedia.com/p/buku/kedokteran/buku-psikiatri
+197,Kamus Istilah Kedokteran,3,192.0,https://www.tokopedia.com/p/buku/kedokteran/kamus-istilah-kedokteran
+198,Keluarga,2,89.0,
+199,Buku Bimbingan Orang Tua,3,198.0,https://www.tokopedia.com/p/buku/keluarga/buku-bimbingan-orang-tua
+200,Buku Nama-nama Bayi,3,198.0,https://www.tokopedia.com/p/buku/keluarga/buku-nama-nama-bayi
